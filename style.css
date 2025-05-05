@@ -1,0 +1,94 @@
+.image-section img {
+  width: 100%;
+  display: block;
+  margin-top: 50px;
+}
+.bruno-ace-sc-regular {
+  font-family: "Bruno Ace SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titulo {
+  font-family: "Bruno Ace SC", sans-serif;
+}
+  .rouge-script-regular {
+      font-family: "Rouge Script", cursive;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+.tudo {
+  background-color: black;
+}
+.troca-imagem {
+  position: relative;
+  width: 100%;
+  max-width: auto; /* Ajuste conforme necessÃ¡rio */
+  height: auto;
+  overflow: hidden;
+}
+
+.troca-imagem img {
+  width: 100%;
+  transition: opacity 0.5s ease;
+}
+
+.img-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.troca-imagem:hover .img-hover {
+  opacity: 1;
+}
+
+.troca-imagem:hover .img-normal {
+  opacity: 0;
+}
+.fontetitulo {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fonte {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.texto1 {
+max-width: 600px;
+padding: 20px;
+text-align: left;
+color:aliceblue;
+
+}
+.imagemtexto1 {
+  padding-left:700px;
+  margin-top:-400px;
+  opacity: 80%;
+}
+.imagemtexto2 {
+  padding-left:100px;
+  margin-top:-350px;
+  opacity: 8%;
+}
+.onesightimagem {
+  padding-left:700px;
+  margin-top:-500px;
+  opacity: 80%;
+}
+.essilor4remake { 
+    padding-left:100px;
+    margin-top:-800px;
+    opacity: 8%;
+    width:400px;
+    height:200px;
+}
+.essilor4remake2 {
+  padding-left:100px;
+  margin-top:-450px;
+  opacity: 8%;
+  width:400px;
+  height:200px;
+}
