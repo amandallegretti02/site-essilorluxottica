@@ -72,6 +72,7 @@ color:aliceblue;
   padding-left:100px;
   margin-top:-350px;
   opacity: 8%;
+  
 }
 .onesightimagem {
   padding-left:700px;
@@ -91,4 +92,45 @@ color:aliceblue;
   opacity: 8%;
   width:400px;
   height:200px;
+}
+.luxotticaimagem {
+    padding-left:700px;
+    margin-top:-800px;
+    opacity: 80%;
+}
+.essiloreluxo {
+    padding-left:700px;
+    margin-top:-400px;
+    opacity: 80%;
+    width:1200px;
+    height:300px;
+}
+.textonovo {
+
+    max-width: 10000px;
+    padding: 20px;
+    text-align: left;
+    color:aliceblue;
+
+}
+.textonovo2 {
+
+  max-width: 1000px;
+  padding: 20px;
+  text-align: left;
+  color:aliceblue;
+
+}
+.supply {
+  padding-left:400px;
+  opacity: 80%;
+}
+.erp {
+  padding-left:600px;
+  opacity: 80%;
+}
+.imagemtexto10 {
+  padding-left:400px;
+  margin-top:-300px;
+  opacity: 80%;
 }
